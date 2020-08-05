@@ -6,7 +6,7 @@
 [<img align="left" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linkedin.png" />][linkedin]
 [<img align="left" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/instagram.png" />][instagram]
 
-<br />
+<br>
 
 ### Languages and Tools:
 
