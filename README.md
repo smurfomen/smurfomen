@@ -18,18 +18,13 @@
 [<img align="left" alt="bash" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]()
 
 
-<br />
-<br />
-
 ## 📕 Papers
 <!-- BLOG-POST-LIST:START -->
 - [QSerializer: решение для простой сериализации JSON/XML](https://habr.com/ru/post/496836/)
 - [«Жить в кайф» или моя история от прокрастинации к саморазвитию](https://habr.com/ru/post/457294/)
 - [Основы указателей для начинающих](https://habr.com/ru/post/456318/)
 <!-- BLOG-POST-LIST:END -->
-
 ---
-
 <img align="left" alt="smurfomen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smurfomen&show_icons=true&hide_border=true" />
 
 
@@ -39,10 +34,9 @@
 [instagram]: https://www.instagram.com/vova_agadzhanov/
 [linkedin]: https://linkedin.com/in/vladimir-agadzhanov
 
-
-### Connect with me:
-[<img align="left" alt="VK" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/vk.png" />][vk]
-[<img align="left" alt="Telegram" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/telegram.png" />][telegram]
-[<img align="left" alt="LinkedIn" width="46px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/instagram.png" />][instagram]
-[<img align="left" alt="Gmail" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/gmail.png" />](mailto:vova.skiller@gmail.com)
+#### Connect with me:
+[<img align="left" alt="VK" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/vk.png" />][vk]
+[<img align="left" alt="Telegram" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/telegram.png" />][telegram]
+[<img align="left" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/instagram.png" />][instagram]
+[<img align="left" alt="Gmail" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/gmail.png" />](mailto:vova.skiller@gmail.com)
