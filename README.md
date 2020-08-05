@@ -17,6 +17,9 @@
 [<img align="left" alt="linux" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]()
 [<img align="left" alt="bash" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]()
 
+<br />
+<br />
+<br />
 
 ## 📕 Papers
 <!-- BLOG-POST-LIST:START -->
@@ -24,6 +27,7 @@
 - [«Жить в кайф» или моя история от прокрастинации к саморазвитию](https://habr.com/ru/post/457294/)
 - [Основы указателей для начинающих](https://habr.com/ru/post/456318/)
 <!-- BLOG-POST-LIST:END -->
+
 ---
 <img align="left" alt="smurfomen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smurfomen&show_icons=true&hide_border=true" />
 
@@ -33,6 +37,8 @@
 [telegram]: https://t.me/smurfomen
 [instagram]: https://www.instagram.com/vova_agadzhanov/
 [linkedin]: https://linkedin.com/in/vladimir-agadzhanov
+
+<br />
 
 #### Connect with me:
 [<img align="left" alt="VK" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/vk.png" />][vk]
