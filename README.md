@@ -1,27 +1,26 @@
 ### Hi there, I'm Vladimir - aka [smurfomen][instagram] 👋
 
 ### Connect with me:
-[<img align="left" alt="VK" width="22px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/vk.png" />][vk]
-[<img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/telegram.png" />][telegram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/instagram.png" />][instagram]
+[<img align="left" alt="VK" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/vk.png" />][vk]
+[<img align="left" alt="Telegram" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/telegram.png" />][telegram]
+[<img align="left" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/instagram.png" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/github.png" />]
-[<img align="left" alt="BitBucket" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bitbucket.png" />]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/cplusplus.png" />]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/csharp.png" />]
-[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/go.png" />]
-[<img align="left" alt="Qt" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/qt.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/sql.png" />]
-[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]
-[<img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]
+[<img align="left" alt="git" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/git.png" />]
+[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/github.png" />]
+[<img align="left" alt="BitBucket" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bitbucket.png" />]
+[<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/cplusplus.png" />]
+[<img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/csharp.png" />]
+[<img align="left" alt="Golang" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/go.png" />]
+[<img align="left" alt="Qt" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/qt.png" />]
+[<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/sql.png" />]
+[<img align="left" alt="linux" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]
+[<img align="left" alt="bash" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]
 
-<br />
 <br />
 
 
