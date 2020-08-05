@@ -1,14 +1,10 @@
-## Hi there, I'm Vladimir - aka [smurfomen][instagram] 👋
-
-### Connect with me:
-[<img align="left" alt="VK" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/vk.png" />][vk]
-[<img align="left" alt="Telegram" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/telegram.png" />][telegram]
-[<img align="left" alt="LinkedIn" width="46px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/instagram.png" />][instagram]
-[<img align="left" alt="Gmail" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/gmail.png" />][gmail]
-
+## I'm software engeneer on Qt/C++ stack
+- Volgograd State Technical University
+- Currently develop software for control of automation and telemechanical systems on railroad!
+- Learning every day
 
 <br>
+
 
 ### Languages and Tools:
 
@@ -23,6 +19,19 @@
 [<img align="left" alt="linux" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]()
 [<img align="left" alt="bash" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]()
 
+<br>
+<br>
+
+
+### Connect with me:
+[<img align="left" alt="VK" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/vk.png" />][vk]
+[<img align="left" alt="Telegram" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/telegram.png" />][telegram]
+[<img align="left" alt="LinkedIn" width="46px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/instagram.png" />][instagram]
+[<img align="left" alt="Gmail" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/gmail.png" />](mailto:vova.skiller@gmail.com)
+
+<br />
+<br />
 <br />
 
 
@@ -44,4 +53,3 @@
 [telegram]: https://t.me/smurfomen
 [instagram]: https://www.instagram.com/vova_agadzhanov/
 [linkedin]: https://linkedin.com/in/vladimir-agadzhanov
-[gmail] : gmail:vova.skiller@gmail.com
