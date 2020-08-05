@@ -1,25 +1,25 @@
 ### Hi there, I'm Vladimir - aka [smurfomen][instagram] 👋
 
 ### Connect with me:
-[<img align="left" alt="smurfomen | VK" width="22px" src="logos/vk.png" />][vk]
-[<img align="left" alt="smurfomen | Telegram" width="22px" src="logos/telegram.png" />][telegram]
-[<img align="left" alt="smurfomen | LinkedIn" width="22px" src="logos/linkedin.png" />][linkedin]
-[<img align="left" alt="smurfomen | Instagram" width="22px" src="logos/instagram.png" />][instagram]
+[<img align="left" alt="VK" width="22px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/vk.png" />][vk]
+[<img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/telegram.png" />][telegram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/instagram.png" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="git" width="26px" src="logos/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="logos/github.png" />]
-[<img align="left" alt="BitBucket" width="26px" src="logos/bitbucket.png" />]
-[<img align="left" alt="C++" width="26px" src="logos/cplusplus.png" />]
-[<img align="left" alt="C#" width="26px" src="logos/csharp.png" />]
-[<img align="left" alt="Golang" width="26px" src="logos/go.png" />]
-[<img align="left" alt="Qt" width="26px" src="logos/qt.png" />]
-[<img align="left" alt="SQL" width="26px" src="logos/sql.png" />]
-[<img align="left" alt="linux" width="26px" src="logos/linux.png" />]
-[<img align="left" alt="bash" width="26px" src="logos/bash.png" />]
+[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/github.png" />]
+[<img align="left" alt="BitBucket" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bitbucket.png" />]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/cplusplus.png" />]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/csharp.png" />]
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/go.png" />]
+[<img align="left" alt="Qt" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/qt.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/sql.png" />]
+[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]
+[<img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]
 
 <br />
 <br />
