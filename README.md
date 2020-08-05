@@ -10,16 +10,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="git" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/git.png" />]
-[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/github.png" />]
-[<img align="left" alt="BitBucket" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bitbucket.png" />]
-[<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/cplusplus.png" />]
-[<img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/csharp.png" />]
-[<img align="left" alt="Golang" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/go.png" />]
-[<img align="left" alt="Qt" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/qt.png" />]
-[<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/sql.png" />]
-[<img align="left" alt="linux" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]
-[<img align="left" alt="bash" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]
+[<img align="left" alt="git" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/git.png" />]()
+[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/github.png" />]()
+[<img align="left" alt="BitBucket" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bitbucket.png" />]()
+[<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/cplusplus.png" />]()
+[<img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/csharp.png" />]()
+[<img align="left" alt="Golang" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/go.png" />]()
+[<img align="left" alt="Qt" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/qt.png" />]()
+[<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/sql.png" />]()
+[<img align="left" alt="linux" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]()
+[<img align="left" alt="bash" width="36px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]()
 
 <br />
 
