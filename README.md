@@ -5,7 +5,7 @@
 [<img align="left" alt="Telegram" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/telegram.png" />][telegram]
 [<img align="left" alt="LinkedIn" width="46px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linkedin.png" />][linkedin]
 [<img align="left" alt="Instagram" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/instagram.png" />][instagram]
-[<img align="left" alt="Instagram" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/gmail.png" />][gmail]
+[<img align="left" alt="Gmail" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/gmail.png" />][gmail]
 
 
 <br>
