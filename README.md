@@ -17,7 +17,9 @@
 [<img align="left" alt="linux" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]()
 [<img align="left" alt="bash" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]()
 
----
+
+<br />
+<br />
 
 ## 📕 Papers
 <!-- BLOG-POST-LIST:START -->
