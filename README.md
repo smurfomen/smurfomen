@@ -7,13 +7,8 @@
 ### Languages and Tools:
 
 [<img align="left" alt="git" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/git.png" />]()
-[<img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/github.png" />]()
-[<img align="left" alt="BitBucket" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bitbucket.png" />]()
 [<img align="left" alt="C++" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/cplusplus.png" />]()
-[<img align="left" alt="C#" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/csharp.png" />]()
-[<img align="left" alt="Golang" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/go.png" />]()
 [<img align="left" alt="Qt" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/qt.png" />]()
-[<img align="left" alt="SQL" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/sql.png" />]()
 [<img align="left" alt="linux" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]()
 [<img align="left" alt="bash" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]()
 
