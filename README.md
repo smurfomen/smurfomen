@@ -1,7 +1,8 @@
 ## I'm software engeneer on Qt/C++ stack
-- Volgograd State Technical University
-- Currently develop software for control of automation and telemechanical systems on railroad!
+- Graduated Volgograd State Technical University
+- Last three year was develop software for control of automation and telemechanical systems on railroad!
 - Learning every day
+- Most curious interested direct of developing i think is languages disign, LLVM, CLang and other compilation tools. Have no strong knoledge of this direct, but trying yeild it.
 
 
 ### Languages and Tools:
@@ -10,7 +11,6 @@
 [<img align="left" alt="C++" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/cplusplus.png" />]()
 [<img align="left" alt="Qt" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/qt.png" />]()
 [<img align="left" alt="linux" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/linux.png" />]()
-[<img align="left" alt="bash" width="48px" src="https://raw.githubusercontent.com/smurfomen/smurfomen/master/.github/logos/bash.png" />]()
 
 <br />
 <br />
@@ -21,7 +21,6 @@
 - [QSerializer: решение для простой сериализации JSON/XML](https://habr.com/ru/post/496836/)
 - [QSerializer умер, да здравствует QSerializer](https://habr.com/ru/post/515094/)
 - [«Жить в кайф» или моя история от прокрастинации к саморазвитию](https://habr.com/ru/post/457294/)
-- [Основы указателей для начинающих](https://habr.com/ru/post/456318/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
