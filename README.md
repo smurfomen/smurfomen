@@ -1,9 +1,9 @@
 ## I'm software engeneer on Qt/C++ stack
 - Graduated Volgograd State Technical University
-- Last three year was develop software for control of automation and telemechanical systems on railroad!
+- Last four year was develop software for control of automation and telemechanical systems on railroad!
 - Learning every day
 - Most curious interested direct of developing i think is languages disign, LLVM, CLang and other compilation tools. Have no strong knoledge of this direct, but trying yeild it.
-
+- Most lovely languages is C++ and Rust
 
 ### Languages and Tools:
 
